@@ -6,7 +6,7 @@ import { componentTagger } from "lovable-tagger";
 // https://vitejs.dev/config/
 export default defineConfig(({ mode }) => ({
   // ✅ GitHub Pages: tu app vive en /Generador-de-Presentaciones/
-  base: "./",
+  base: "/Generador-de-Presentaciones/",
 
   server: {
     host: true,
